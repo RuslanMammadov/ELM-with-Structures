@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+
+thesis_elm_with_structured_matrices/experiments_and_figures/.ipynb_checkpoints
+thesis_elm_with_structured_matrices/datasets/covertype
+thesis_elm_with_structured_matrices/datasets/cal_housing_py3.pkz
+thesis_elm_with_structured_matrices/experiments_and_figures/*/*.eps
